@@ -1,5 +1,4 @@
 # API-Testing
-[Link to Postman Documentation](https://documenter.getpostman.com/view/29102069/2s9YR6aZGU)
 
 ## ✔ Students_details API Testing Collection
 
@@ -172,6 +171,9 @@ pm.test("Status code is 204", function () {
 <img src="https://github.com/Tashfiquzzaman/API-Testing-/blob/78bf08dbda7dcb096d6a50edbb8becd8eb7020f9/Report/Capture.JPG" />
 </p>
 Test Scripts 5 and a Total 20 assertions were done. All of them passed with 0 skipped tests. The number of iterations was 1.
+
+[Link to Postman Documentation](https://documenter.getpostman.com/view/29102069/2s9YR6aZGU)
+
 
 # Create Test Suites   
 
